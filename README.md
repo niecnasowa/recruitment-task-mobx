@@ -22,7 +22,7 @@ In the project directory, you can run:
 
 I have also deployed the app to vercel, you can check it here:
 
-### [Create React App](https://github.com/facebook/create-react-app)
+### [https://recruitment-task-mobx.vercel.app/](https://recruitment-task-mobx.vercel.app/)
 
 ## Some explanations about code architecture, libraries etc. Why I decided to do some things like I did:
 
@@ -31,4 +31,3 @@ I have also deployed the app to vercel, you can check it here:
 3. For forms, I have decided to use `react-hook-form`, it is one of the most popular forms library at the moment in react world.
 4. This was first time when I have used `mobx`, I am not sure if I made the best decisions about its implementation, but final result looks good to me (from code and result perspective).
 5. I didn't applied responsive design to this app, although styles are written in that way, that probably it needs a few small fixes to looks good on smaller devices.
-
